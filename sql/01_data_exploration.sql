@@ -1,5 +1,5 @@
 -- ============================================
--- 📊 PIZZA SALES ANALYSIS – DATA EXPLORATION
+--   PIZZA SALES ANALYSIS – DATA EXPLORATION
 -- ============================================
 
 -- Total number of orders
